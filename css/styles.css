@@ -1,0 +1,24 @@
+body {
+  background-color: #ecf0f1;
+  margin: auto;
+  width:  40%;
+}
+
+hr {
+  width: 50px;
+  border-style: dotted none none none;
+  border-top-width: 5px;
+  color: lightgrey;
+}
+
+h1 {
+  color: #1b262c;
+}
+
+h3 {
+  color: #214177;
+}
+
+a:hover {
+  color: #f8c957;
+}
